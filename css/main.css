@@ -1,0 +1,61 @@
+/* Inserte su codigo aqui */
+.encabezado {
+	background:#FCCE09;
+	height: px;
+
+}
+a {text-decoration: none;}
+.title{
+	margin-top: 50px;
+}
+.w-100{
+	width: 100%;
+}
+.title h4 {
+	display: inline-block;
+	padding: 10px 60px 10px 10px;
+	color: white;
+	background: #FCBA43;
+	font-weight: normal;
+}
+.header-nav ul {
+	list-style-type: none;
+	margin: 20px;
+}
+.header-nav ul li {
+		display: inline-block;
+}
+.header-nav ul li a{
+	padding: 10px;
+	color: white;
+}
+.logo {
+	text-align: center;
+}
+.centrando{
+	position: relative;
+	height: 800px;
+}
+.logo {
+	position: absolute;
+	width:200px;
+	height: 60px; 
+	text-align:center;
+	top:50%; 
+ 	margin-top:-32px;
+  	left: 50%; 
+  	margin-left:-102px;
+}
+.centro {
+	background: #FCCE09;
+	width: 100%
+}
+.container-fluid {
+	margin: 0 auto;
+	width: 90%
+}
+.cuadro .row .col-6 .box {
+	width: 300px;
+	height: 300px;
+	background: gray;
+}
